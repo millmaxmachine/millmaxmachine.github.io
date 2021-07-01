@@ -1,0 +1,549 @@
+
+
+@media only screen and (max-width: 1200px){
+    
+    .hero-text-box {
+        width: 100%;
+        padding: 0 10%;
+    }
+
+    .row{
+        padding: 0 3%;
+    }
+    
+    .logo { 
+        width: auto;
+        margin-top: 40px;
+    }
+    
+    .main-nav {
+        margin-top: 100px;
+    }
+    
+    .info{
+        padding-left: 80px;
+    }
+    
+    .footer-left{
+        padding-top: 4%;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1023px){
+    
+    html, header{
+        background-attachment: scroll;
+    }
+    section{
+        padding: 60px 0;
+    }
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 5%;
+    }
+    
+    body {
+        font-size: 18px;
+    }
+    
+    
+    .row {
+        padding: 0 3%;
+    }
+    
+    .main-nav {
+        margin-top: 100px;
+    }
+    
+    .info{
+        padding-left: 0px;
+    }
+    
+    .footer-company-name{
+        margin-top: 60px;
+    }
+    
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+        margin-left: 9px;
+
+        }
+
+    .info-p{
+        margin-top: -16.5%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -14%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -11%; 
+
+    }
+    
+    .labimg-img{
+        width: 80%;
+    }
+    
+    .cs-h:after{
+    }
+    
+}
+
+@media only screen and (max-width: 1020px){
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .fa.fa-map-marker{
+        margin-bottom: 7%;
+    /*    margin-top: -50px;*/
+    }
+    .fa.fa-phone{
+        margin-bottom: 7%;
+    }
+
+    .fa.fa-envelope{
+        font-size: 20px;
+    }
+    
+    .info-p{
+        margin-top: -15%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -13.5%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -8%; 
+
+    }
+    
+    
+    
+}
+
+@media only screen and (max-width: 805px){
+   
+    .prev, .next {
+        top: 40%;
+        font-size: 40px;
+    }
+    
+    .info{
+        padding-left: 0px;
+    }
+    
+    .footer-company-name{
+        margin-top: 60px;
+    }
+    
+    .footer-right{
+        padding-left: 5px;
+        padding-top: 20px;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+        margin-left: 9px;
+
+        }
+
+    .info-p{
+        margin-top: -21.5%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -16%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -11%; 
+
+    }
+    
+    .h2allpro{
+        margin-bottom: 40px;
+    }
+    
+    .main-nav {
+        display: none;
+    }
+        
+    .mobile-nav{
+        margin-top: 85px;
+        display: inline-block;
+    }
+    
+    .main-nav{
+        font-size: 15px;
+        float: left;
+        margin-left: 45px;
+    }
+    
+    .main-nav li{
+        display: block;
+    }
+    
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+    }
+    
+    
+    
+}
+
+
+@media only screen and (max-width: 767px){
+    
+    .logo{
+        height: 100px;
+    }
+    
+    section{
+        padding: 65px 0;
+    }
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 5%;
+        font-size: 15px;
+    }
+    
+    .row{
+        padding: 0 8%
+    }
+    
+    .contact-form{
+        width: 100%;
+    }
+    
+    .submit-btn{
+        margin-left: 30%;
+    }
+    
+    body {
+        font-size: 18px;
+    }
+    
+    .scrap-buyback{
+        padding-top: 45px;
+    }
+    
+    .contact-us{
+        padding-top: 60px;
+        padding-bottom: 60PX;
+    }
+    
+    
+    .cs-h{
+        font-size: 180%;
+    }
+    
+    .cs-h:after{
+        width: 55%;
+    }
+    
+    .footer-left{
+        display: none;
+    }
+    
+    .footer-right{
+        width: 100%;
+        padding: 0;
+        padding-left: 4%
+    }
+    
+    footer {
+        padding: 30px 10px;
+    }
+    
+    .info-p{
+        margin-top: -16%; 
+
+    }
+
+    .info-ph{
+    /*    position: relative;*/
+        margin-top: -14%; 
+
+    }
+
+    .info-pm{
+    /*    position: relative;*/
+        margin-top: -9%; 
+
+    }
+    
+    .styled-table{
+        font-size: 65%;
+        min-width: auto;
+    }
+    
+    .styled-table th,
+    .styled-table td {
+        padding: 3px 3px;
+    }
+    
+    h2{
+        font-size: 160%;
+    }
+    
+    .solid-cad img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cond{
+        margin-top: -4%;
+        padding-left: 0;
+        font-size: 70%
+    }
+
+    .len{
+        padding-top: 6%;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 120%;
+    }
+    
+    .allpro{
+        padding: 25px 0 30px 0;
+    }
+    
+    .mobile-nav{
+        margin-top: 35px;
+        display: inline-block;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px){
+
+    .logo{
+        height: 90px;
+        margin-top: 0;
+        margin-left: -7%;
+    }
+    
+    section{
+        padding: 45px 0 ;
+    }
+
+    .hero-text-box {
+        width: 100%;
+        padding: 0 8%;
+        font-size: 11px;
+    }
+    
+    h1{
+        font-size: 220%;
+    }
+    
+    h3{
+        margin-left: 50px;    
+    }
+    
+    .butn{
+        font-size: 13px;
+        padding: 6px 8px;
+    }
+    
+    .btn-as:link,
+    .btn-as:visited {
+        margin-left: 10px;
+
+    }
+    
+    .row{
+        padding: 2% 10%;
+    }
+    
+    .about-us, .scrap-buyback {
+        font-size: 16px;
+    }
+    
+    .sbb-img{
+        margin-top: 30px;
+        width: 100%;    
+    }
+    
+    .prev, .next {
+        top: 68.5%;
+        margin-left:10px;
+        margin-right:10px;
+        font-size: 25px;
+        
+    }
+    
+    .numbertext {
+        display: none;
+    }
+    
+    .modal-content {
+        padding-top: 200px;
+        width: 100%;
+    }
+    
+    .cs-h{
+        font-size: 25px;
+        padding-bottom: 0;
+    }
+    
+    .cs-h:after{
+        width: 65%;
+    }
+    
+    .heading{
+        padding: 50px 0 0 0;
+    } 
+    
+    .gallery-mmm{
+        padding-bottom:  70px;
+    }
+    
+    .prod-mmm{
+        font-size: 140%;
+    }
+    
+    .one{
+        display: none;
+    }
+    
+    .two{
+        display: contents;
+    }
+    
+    .col2{
+        text-align: center;
+        width: 50%;
+    }   
+    
+    
+    .box-content img{
+        width: 90%;
+    }
+    
+    .box-content h3{
+        font-size: 90%;
+        margin: 0;
+    }
+    
+    .para-mmm{
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        font-size: 90%;
+    }
+    
+    .abt-us-head:after{
+        width: 33%;
+    }
+    
+    .sbb-head:after {
+        width: 60%;
+    }
+    
+    .contact-us{
+        padding: 40px 0 30px 0;
+    }
+    
+    .cform{
+        padding: 10px 0;
+    }
+    
+    .chead{
+        padding-top: 0;
+    }
+    
+    .submit-btn{
+        margin-left: 36%;
+    }
+    
+    label{
+        display: none;
+    }  
+    
+    .footer-left,
+    .info-ph,
+    .info-pm,
+    .info-p{
+        display: none;
+    }
+    
+    .fa{
+        display: inline-block;
+        text-align: center;
+        vertical-align: top;
+        float: left;
+        padding-left: 16%
+    }
+    
+    .footerpad{
+        padding:0;
+    }
+    footer{
+        padding-top: 10px;
+        padding-bottom: 5px;
+        padding-left: 0;
+    }
+    
+    .h2,.conv, .conversion, .purchase{
+        padding-top: 40px
+    }
+    
+}
+
+
+@media only screen and (max-width: 372px){
+    .logo{
+        height: 90px;
+        margin-top: 0;
+        margin-left: -5%;
+    }
+
+    
+    .btn-products:link,
+    .btn-products:visited {
+        margin-left: 80px;
+    }
+    
+    .btn-as:link,
+    .btn-as:visited {
+        margin-left: 10px;
+    }
+    
+        
+
+}
+    
+    
+
+
+
